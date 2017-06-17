@@ -5,4 +5,6 @@ public class Test {
 
     public void updateInSubModuleC(){}
 
+    public void updateInSubModuleB(){}
+
 }
