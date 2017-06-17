@@ -27,5 +27,7 @@ public class Test {
 
     public void testUpdateCCC(){}
 
+    public void testUpdateBC(){}
+
 
 }
