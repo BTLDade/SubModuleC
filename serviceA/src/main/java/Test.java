@@ -9,4 +9,6 @@ public class Test {
 
     public void updateInSubModuleBB(){}
 
+    public void updateInSubModuleCC(){}
+
 }
