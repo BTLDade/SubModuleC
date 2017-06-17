@@ -23,5 +23,7 @@ public class Test {
 
     public void testUpdateC(){}
 
+    public void testUpdateCC(){}
+
 
 }
