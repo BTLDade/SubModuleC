@@ -19,5 +19,7 @@ public class Test {
 
     public void updateInSubModuleCCCCC(){}
 
+    public void updateInSubModuleCCCCCC(){}
+
 
 }
