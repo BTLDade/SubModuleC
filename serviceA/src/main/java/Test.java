@@ -7,4 +7,6 @@ public class Test {
 
     public void updateInSubModuleB(){}
 
+    public void updateInSubModuleBB(){}
+
 }
