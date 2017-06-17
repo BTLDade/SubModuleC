@@ -21,5 +21,7 @@ public class Test {
 
     public void updateInSubModuleCCCCCC(){}
 
+    public void testUpdateC(){}
+
 
 }
